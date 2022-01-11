@@ -59,6 +59,8 @@
 
 Introduccion por el profesor
 
+https://www.postgresql.org/docs/11/datatype.html
+
 ### Clase 2 Que es Postgresql
 
 Postgre es un motor de base de datos open source y usa el Objeto-Relacional, existen tres conceptos importantes acerca de las bases de datos
