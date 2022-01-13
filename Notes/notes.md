@@ -1782,6 +1782,8 @@ IPS (In operation per second) es la limitante a nivel de sistemas operativos, co
 
 ### Clase 30 Implementacion de Replicas en Postgres
 
+https://platzi.com/tutoriales/1480-postgresql/6559-implementacion-de-replicas-en-postgres-con-docker-2/
+
 Usaremos la plataforma <https://jelastic.com/>  para crear dos servidores 1 de postgres que sera el maestro y 1 en postgres que sera el esclavo/replica, jelastic es un SaaS
 
 Primero nos registramos aquí <https://app.cloudjiffy.co/>, nos registramos y creamos dos bases de datos hacemos lo mismo para master1 y replica1.
