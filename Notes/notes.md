@@ -1607,6 +1607,8 @@ USING (id)
 
 ### Clase 25 Transacciones
 
+https://www.todopostgresql.com/comandos-de-transacciones-en-postgresql/
+
 Tomando el ejemplo de un cajero automático, cuando uno de sus procesos falla este debe devolver todos los cambios, postgres hace lo mismo, cuando tiene un proceso si alguna de las tareas que lo componen falla este debe poder devolver todos los cambios automáticamente (hacer un rollback)
 
 El proceso se ilustra como
